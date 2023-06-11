@@ -32,9 +32,9 @@ HPC cluster at your home institution.
 # Option 1: Making use of Docker
 
 If you would rather not install python from Anaconda, or keep your existing python tools separate from the CMS open data work, you can use the python Docker container.
-If you completed the [Docker pre-exercises](https://cms-opendata-workshop.github.io/workshop2022-lesson-docker/) 
+If you completed the [Docker pre-exercises](https://cms-opendata-workshop.github.io/workshop2023-lesson-docker/) 
 you should already have worked through 
-[this episode](https://cms-opendata-workshop.github.io/workshop2022-lesson-docker/03-docker-for-cms-opendata/index.html), under **Download the docker images for ROOT and python tools and start container**, and you will have
+[this episode](https://cms-opendata-workshop.github.io/workshop2023-lesson-docker/03-docker-for-cms-opendata/index.html), under **Download the docker images for ROOT and python tools and start container**, and you will have
 
 - a working directory `cms_open_data_python` on your local computer
 - a docker container with name `my_python` created with the working directory `cms_open_data_python` mounted into the `/code` directory of the container.

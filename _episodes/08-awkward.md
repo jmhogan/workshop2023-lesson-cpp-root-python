@@ -153,7 +153,7 @@ or by downloading it.
 # Open the file
 
 *Stop!* If you haven't already, make sure you have run through the 
-[previous lesson](https://cms-opendata-workshop.github.io/workshop2022-lesson-cpp-root-python/07-uproot/index.html) on working with uproot.
+[previous lesson](https://cms-opendata-workshop.github.io/workshop2023-lesson-cpp-root-python/07-uproot/index.html) on working with uproot.
 
 Let's open this ROOT file! 
 If you're writing a python script, let's call it `open_root_file_and_analyze_data.py` and if you're using
